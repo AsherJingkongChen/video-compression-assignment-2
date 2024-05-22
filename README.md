@@ -2,7 +2,7 @@
 
 ## Task Descriptions
 
-See the [`assignment.pdf`](./resources/assignment.pdf) for more information.
+See the [`resources/assignment.pdf`](./resources/assignment.pdf) for more information.
 
 ## Solutions and outputs
 
