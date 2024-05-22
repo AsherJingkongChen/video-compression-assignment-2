@@ -14,7 +14,9 @@ The PDF report from the notebook can be found at [`docs/README.pdf`](./docs/READ
 
 ### Prerequisites
 
-Python 3.10+
+- Programming langauge: Python 3.10+ (IPython)
+- Framework: Jupyter
+
 ```shell
 pip install -Ur requirements.txt
 ```
