@@ -1,6 +1,6 @@
 # Video Compression Assignment 2
 
-## Task Descriptions
+## Task descriptions
 
 See the [`resources/assignment.pdf`](./resources/assignment.pdf) for more information.
 
@@ -8,7 +8,7 @@ See the [`resources/assignment.pdf`](./resources/assignment.pdf) for more inform
 
 See the [`notebooks/assignment.ipynb`](./notebooks/assignment.ipynb) for the solutions and outputs.
 
-The PDF report from the notebook can be found at [`docs/README.pdf`](./docs/README.pdf)
+The PDF report generated from the notebook can be found at [`docs/README.pdf`](./docs/README.pdf)
 
 ## Development
 
