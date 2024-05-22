@@ -1,4 +1,4 @@
-# Video Compression Assignment 1
+# Video Compression Assignment 2
 
 ## Task Descriptions
 
